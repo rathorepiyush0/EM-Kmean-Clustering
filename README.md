@@ -5,13 +5,13 @@ Apply EM Algorithm to cluster a set of data stored in a .CSV file. Use the same 
 # Dataset Used
 IRIS Dataset
 # What are the required python packages?
-Pandas
-Numpy
-Sklearn
-Matplotlib
+- Pandas
+- Numpy
+- Sklearn
+- Matplotlib
 # Machine Learning Algorithm Used:-
-Kmeans Algorithm
-EM Algorithm
+- Kmeans Algorithm
+- EM Algorithm
 # Observation: 
 The GM using EM algorithm based clustering matched the true label more closely than kmeans.
 # Conclusion:
